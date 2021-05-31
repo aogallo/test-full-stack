@@ -10,7 +10,7 @@ yarn start
 
 ```
 
-[app](http://localhost:3000)
+clic [app](http://localhost:3000)
 
 ## Backend
 
@@ -24,7 +24,7 @@ yarn install
 yarn rund dev
 ```
 
-[backend](http://localhost:3000)
+clic [backend](http://localhost:3000)
 
 
 
